@@ -16,7 +16,7 @@ Once our data was in a more consumable form, we wanted to look at how the sale p
 
 To see how SalePrice varied between the different product groups, we looked at the number of sales and the mean sale price for each group. Motor Graders had the highest mean sale price, while accounting for the fewest number of sales. Conversely, Backhoe Loaders were the most frequently sold group, but their mean selling price was around the average selling price of all equipment.
 
-![Product Group](images/Product_group.png)
+![Product Group](images/Product_Group.png)
 
 Next, we observed similar trends with the type of cabin enclosure each machine possessed. Open Roll Over Protective Structure (OROPS) were less common than other types, but went for a much higher mean selling price. Counter to our intuition, enclosures with air conditioning did not demand the highest mean selling price.
 
