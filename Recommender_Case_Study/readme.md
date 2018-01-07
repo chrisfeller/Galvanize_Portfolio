@@ -29,6 +29,6 @@ When examining the distribution of errors between models, we see that the KNNBas
 Thanks to [Nicolas Hug](https://github.com/NicolasHug/Surprise) for surpriselib, particularly [this jupyter notebook on building a pandas dataframe from surprise predictions](https://github.com/NicolasHug/Surprise/blob/48621350b760c105ce5953f9253380caf9cb8982/examples/notebooks/KNNBasic_analysis.ipynb).
 
 #### Collaborators
-[Leo Walker](https://github.com/leowalker89)
-[Nicki Rahm](https://github.com/NRahm)
-[Daniel Meurer](https://github.com/DataDanD)
+* [Leo Walker](https://github.com/leowalker89)
+* [Nicki Rahm](https://github.com/NRahm)
+* [Daniel Meurer](https://github.com/DataDanD)
