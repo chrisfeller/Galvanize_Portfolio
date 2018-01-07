@@ -61,6 +61,6 @@ When run on our test data, the model recorded an MSE of 392,317,018.092 and RMSL
 | ProductGroupDesc_Wheel Loader  | 4670.331  |
 
 #### Collaborators
-[Alex Worth](https://github.com/aworth00)
-[Davis Grubin](https://github.com/davisgrubin)
-[Louis Rivera](https://github.com/louisrivera)
+* [Alex Worth](https://github.com/aworth00)
+* [Davis Grubin](https://github.com/davisgrubin)
+* [Louis Rivera](https://github.com/louisrivera)
