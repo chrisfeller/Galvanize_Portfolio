@@ -61,3 +61,8 @@ Best Params: {'learning_rate': 0.25, 'max_features': None,
 
 When tested on the validation set of the train/test split on the training data, the Gradient Boosting model mentioned above recorded an f-score of 0.823. It also produced the ROC Curve found below. On the actual test data, it recorded an f-score of .7920.
 ![ROC Curve](images/ROC_Curve.png)
+
+#### Collaborators
+[Paul Drabinski](https://github.com/pdrabinski)
+[Leo Walker](https://github.com/leowalker89)
+[Louis Rivera](https://github.com/louisrivera)
