@@ -63,6 +63,6 @@ When tested on the validation set of the train/test split on the training data, 
 ![ROC Curve](images/ROC_Curve.png)
 
 #### Collaborators
-[Paul Drabinski](https://github.com/pdrabinski)
-[Leo Walker](https://github.com/leowalker89)
-[Louis Rivera](https://github.com/louisrivera)
+* [Paul Drabinski](https://github.com/pdrabinski)
+* [Leo Walker](https://github.com/leowalker89)
+* [Louis Rivera](https://github.com/louisrivera)
