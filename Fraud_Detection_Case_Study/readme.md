@@ -1,5 +1,5 @@
 # Fraud Detection Case Study
-Created a web-based app, which pulls in streaming data from a live website. That data is then run through a Random Forest Classifier to predict whether a certain posting is fraudulent. The resulting prediction is saved to a MongoDB and displayed on the web-app.
+Created a web-based app, which pulls in streaming data from an e-commerce website. That data is then run through a Random Forest Classifier to predict whether a certain posting is fraudulent. The resulting prediction is saved to a MongoDB and displayed on the web-app.
 
 ### Business Problem
 A startup e-commerce website is trying to weed out fraudsters. You are tasked with developing and deploying a model to predict which posts on the website are fraudulent. The final product should be a web-based app, which displays predictions for newly created web postings. Since the data is sourced from a real company, I've not shared the dataset.
