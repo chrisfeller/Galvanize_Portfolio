@@ -10,3 +10,6 @@ Utilized ridge regression to predict the sale price of a particular piece of hea
 
 [Recommender Case Study](https://github.com/chrisfeller/Galvanize_Portfolio/tree/master/Recommender_Case_Study)
 Built recommender system utilizing surpriselib to improve upon existing recommender for video-streaming service. 
+
+[Fraud Detection Case Study](https://github.com/chrisfeller/Galvanize_Portfolio/tree/master/Fraud_Detection_Case_Study)
+Created a web-based app, which pulls in streaming data from an e-commerce website. That data is then run through a Random Forest Classifier to predict whether a certain posting is fraudulent. The resulting prediction is saved to a MongoDB and displayed on the web-app.
